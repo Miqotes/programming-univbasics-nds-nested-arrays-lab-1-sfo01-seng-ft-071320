@@ -50,17 +50,17 @@ def sorted_matrix
       "Potatoes", 
       "Grapes", 
       "Avocadoes", 
-      "Asparagus"], 
+      "Asparagus"].sort, 
      [
     "Grapefruit", 
     "Pineapple", 
     "Oranges", 
     "Watermelon", 
     "Eggplant"
-      ]
+      ].sort
     ]
-    pretty_produce[0].sort
-    pretty_produce[1].sort
+    pretty_produce[0]
+    pretty_produce[1]
     pretty_produce
 end
 
