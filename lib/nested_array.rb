@@ -60,7 +60,7 @@ def sorted_matrix
     "Eggplant"
       ]
     ]
-    pretty_produce.sort_by(:char)
+    pretty_produce.sort_by(char)
 end
 
 def matrix_lookup(matrix, row, column)
