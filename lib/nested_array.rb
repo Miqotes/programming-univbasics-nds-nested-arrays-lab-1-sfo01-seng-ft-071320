@@ -60,7 +60,7 @@ def sorted_matrix
     "Eggplant"
       ]
     ]
-    pretty_produce.char.sort
+    pretty_produce.sort
     
 end
 
