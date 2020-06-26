@@ -37,7 +37,7 @@ def assembled_matrix
     "Eggplant"
       ]
     ]
-   pretty_produce
+   pretty_produce.sort
 end
 
 def sorted_matrix
