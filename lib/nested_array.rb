@@ -60,8 +60,8 @@ def sorted_matrix
     "Eggplant"
       ]
     ]
-    pretty_produce.sort.char
-    
+    pretty_produce[0][0].sort.char
+    pretty_produce[1][1].sort.char
 end
 
 def matrix_lookup(matrix, row, column)
