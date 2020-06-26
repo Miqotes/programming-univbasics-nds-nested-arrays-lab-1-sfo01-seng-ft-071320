@@ -60,6 +60,8 @@ def sorted_matrix
       ]
     ]
     pretty_produce[0].sort
+    pretty_produce[1].sort
+    pretty_produce
 end
 
 def matrix_lookup(matrix, row, column)
