@@ -61,6 +61,7 @@ def sorted_matrix
       ]
     ]
     pretty_produce[0].sort
+    pretty_produce[1].sort
     
 end
 
