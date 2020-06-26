@@ -59,8 +59,7 @@ def sorted_matrix
     "Eggplant"
       ].sort
     ]
-    pretty_produce[0]
-    pretty_produce[1]
+    
     pretty_produce
 end
 
