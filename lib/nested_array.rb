@@ -36,7 +36,7 @@ def assembled_matrix
       "Asparagus"
       ]
     ]
-   pretty_produce.sort 
+   ORGANIC_PRODUCE.sort, CONVENTIONAL_PRODUCE.sort
 end
 
 def sorted_matrix
